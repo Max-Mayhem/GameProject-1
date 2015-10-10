@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Models/sphere.FBX</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Models/cube.FBX</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Audio/bgm.wav</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Audio/punch.wav</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Textures/enemy.png</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Textures/enemy_fist.png</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Textures/obstacle.png</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Textures/player.png</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Textures/tex_fist.png</File>
+    <File>C:/Users/11985520/Desktop/src/Project/Content/Textures/floor.png</File>
+  </SourceFiles>
+</SourceFileCollection>

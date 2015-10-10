@@ -1,0 +1,326 @@
+E:\Game Programming\Project\Project\bin\Windows\Debug\Project.exe
+E:\Game Programming\Project\Project\bin\Windows\Debug\Project.pdb
+E:\Game Programming\Project\Project\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Game Programming\Project\Project\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\Game Programming\Project\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Game Programming\Project\Project\obj\x86\Debug\Project.exe
+E:\Game Programming\Project\Project\obj\x86\Debug\Project.pdb
+E:\Game Programming\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Game Programming\Project\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+E:\Game Programming\Project\Project\bin\Windows\Debug\Content\Models\cube.xnb
+E:\Game Programming\Project\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+E:\Game Programming\Project\Project\bin\Windows\Debug\Content\Textures\earth.xnb
+E:\Game Programming\Project\Project\bin\Windows\Debug\Content\Textures\pokeball.png
+E:\Game Programming\Project\Project\bin\Windows\Debug\Content\Textures\pokeball.xnb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Textures\earth.xnb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Textures\pokeball.xnb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Project.exe
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Project.pdb
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Textures\tex_player.png
+C:\Users\Vivek\Documents\Visual Studio 2013\Projects\Project\Project\bin\Windows\Debug\Content\Textures\tex_face.xnb
+H:\Project_0.0.5\Project\obj\x86\Debug\Project.exe
+H:\Project_0.0.5\Project\obj\x86\Debug\Project.pdb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Textures\tex_player.png
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Textures\tex_face.xnb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Textures\pokeball.xnb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Models\cube.xnb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Content\Textures\earth.xnb
+H:\Project_0.0.5\Project\bin\Windows\Debug\Project.exe
+H:\Project_0.0.5\Project\bin\Windows\Debug\Project.pdb
+H:\Project_0.0.5\Project\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Project_0.0.5\Project\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Project_0.0.5\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Project_0.0.5\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\obj\x86\Debug\Project.exe
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\obj\x86\Debug\Project.pdb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Textures\tex_player.png
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Textures\tex_face.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Textures\pokeball.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Audio\punch.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Textures\earth.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Project.exe
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Project.pdb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Audio\bgm.xnb
+C:\Users\11985520\Desktop\Project_0.0.5.2\Project\bin\Windows\Debug\Content\Audio\miss.xnb
+H:\Project_0.0.5.4\Project\obj\x86\Debug\Project.exe
+H:\Project_0.0.5.4\Project\obj\x86\Debug\Project.pdb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Textures\tex_player.png
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Textures\tex_face.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Textures\pokeball.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Audio\bgm.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Audio\miss.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Audio\punch.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Models\cube.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Content\Textures\earth.xnb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Project.exe
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\Project.pdb
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Project_0.0.5.4\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Project_0.0.5.4\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+H:\Project_0.0.6\Project\obj\x86\Debug\Project.exe
+H:\Project_0.0.6\Project\obj\x86\Debug\Project.pdb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\tex_player.png
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\tex_face.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\pokeball.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Audio\bgm.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Audio\miss.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Audio\punch.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Models\cube.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\earth.xnb
+H:\Project_0.0.6\Project\bin\Windows\Debug\Project.exe
+H:\Project_0.0.6\Project\bin\Windows\Debug\Project.pdb
+H:\Project_0.0.6\Project\bin\Windows\Debug\MonoGame.Framework.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XInput.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+H:\Project_0.0.6\Project\bin\Windows\Debug\MonoGame.Framework.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XInput.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+H:\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+H:\Project_0.0.6\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\enemy.png
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\enemy_fist.png
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\obstacle.png
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\player.png
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Audio\bgm.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Audio\punch.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\enemy.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\enemy_fist.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\floor.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\obstacle.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\player.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Content\Textures\tex_fist.xnb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Project.exe
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\Project.pdb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\11985520\Downloads\Project_0.0.6\Project\obj\x86\Debug\Project.exe
+C:\Users\11985520\Downloads\Project_0.0.6\Project\obj\x86\Debug\Project.pdb
+C:\Users\11985520\Downloads\Project_0.0.6\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\11985520\Downloads\Project_0.0.9\Project\obj\x86\Debug\Project.exe
+C:\Users\11985520\Downloads\Project_0.0.9\Project\obj\x86\Debug\Project.pdb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\enemy.png
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\enemy_fist.png
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\obstacle.png
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\player.png
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Audio\bgm.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Audio\punch.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\enemy.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\enemy_fist.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\floor.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\obstacle.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\player.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Content\Textures\tex_fist.xnb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Project.exe
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\Project.pdb
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\11985520\Downloads\Project_0.0.9\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\11985520\Desktop\src\Project\obj\x86\Debug\Project.exe
+C:\Users\11985520\Desktop\src\Project\obj\x86\Debug\Project.pdb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\enemy.png
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\enemy_fist.png
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\obstacle.png
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\player.png
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\tex_fist.png
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Fonts\Courier New.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Audio\bgm.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Audio\punch.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Models\cube.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Models\sphere.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\enemy.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\enemy_fist.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\floor.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\obstacle.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\player.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Content\Textures\tex_fist.xnb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Project.exe
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\Project.pdb
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\11985520\Desktop\src\Project\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\11985520\Desktop\src\Project\obj\x86\Debug\Project.csprojResolveAssemblyReference.cache
